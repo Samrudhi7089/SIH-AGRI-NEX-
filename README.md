@@ -267,11 +267,6 @@ Models and design decisions are grounded in:
 
 ---
 
-## Deliverables
-
-- Live Demo: _link_
-- Video Pitch: _link_
-- Presentation: _link_
 
 ---
 
