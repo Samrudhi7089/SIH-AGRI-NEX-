@@ -4,7 +4,7 @@
 
 AGRI-NEX is an AI-driven queue and slot allocation platform for government procurement centres (APMC mandis / MSP procurement). It replaces manual, first-come-first-served queuing with predictive slot recommendation, live queue tracking, and procurement/payment status visibility — for both farmers and procurement authorities.
 
-> ⚠️ **AGRI-NEX does not process or integrate with government payment/DBT systems.** The Payment Management module tracks and displays payment *status* (Pending / Processing / Completed / Failed), manually updated by the procurement authority once payment is settled through existing government channels. Direct integration with an official disbursement/DBT API is intentionally out of scope — AGRI-NEX is a queue and slot management layer, not a payments system.
+> Note - **AGRI-NEX does not process or integrate with government payment/DBT systems.** The Payment Management module tracks and displays payment *status* (Pending / Processing / Completed / Failed), manually updated by the procurement authority once payment is settled through existing government channels. Direct integration with an official disbursement/DBT API is intentionally out of scope — AGRI-NEX is a queue and slot management layer, not a payments system.
 
 Built for **Smart India Hackathon 2026**, Problem Statement **SIH26032** (Ministry of Consumer Affairs, Food & Public Distribution — Department of Consumer Affairs).
 
